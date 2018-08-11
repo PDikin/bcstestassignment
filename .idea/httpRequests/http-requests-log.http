@@ -1,0 +1,32 @@
+POST http://localhost:8080/start
+Content-Type: application/json
+
+ {
+    "stocks":[
+      {
+         "symbol":"AAPL",
+         "volume":50
+      },
+      {
+         "symbol":"HOG",
+         "volume":10
+      },
+      {
+         "symbol":"MDSO",
+         "volume":1
+      },
+      {
+         "symbol":"IDRA",
+         "volume":1
+      },
+      {
+         "symbol":"MRSN",
+         "volume":1
+      }
+    ]
+}
+
+<> 2018-08-11T032048.200.json
+
+###
+
