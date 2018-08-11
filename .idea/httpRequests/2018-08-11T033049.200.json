@@ -1,0 +1,20 @@
+{
+  "value": 10905.75,
+  "allocations": [
+    {
+      "sector": "Technology",
+      "assetValue": 10454.13,
+      "proportion": 0.96
+    },
+    {
+      "sector": "Healthcare",
+      "assetValue": 19.12,
+      "proportion": 0.0
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "assetValue": 432.5,
+      "proportion": 0.04
+    }
+  ]
+}
